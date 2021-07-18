@@ -4,7 +4,7 @@ Welcome to our Friendly Swot mobile application guideline. Over here you'll find
 
 # About
 
-The Friendly SWOT app is a tool designed and developed in order to help project managers to organize, better visualize and to keep track of the needed efforts for each team that he/she is currently managing. On Friendly SWOT app you will be able to create and save SWOT boards for each project you are responsible for, add action items for each area and points listed on each of your SWOT boards created, keep track of your progress by checking which action items are pending and check those already addressed. 
+The Friendly SWOT app is a tool designed and developed in order to help project managers to organize, better visualize and to keep track of the needed efforts for each team that he/she is currently managing. On Friendly SWOT app you will be able to create and save SWOT boards for each project you are responsible for. 
 
 # Instructions
 
