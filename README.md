@@ -37,7 +37,7 @@ Click on the image below to see our Widget Tree in a better way!
 
 ![SWOT Board Creation - FS](https://user-images.githubusercontent.com/65876552/126084209-baf8617b-022d-4b0d-9030-b831ce2d2daa.PNG)
 
-<b>Sucessfully saved message</b> 
+<b>Sucessfully saved notification message</b> 
 
 ![Successfully save - FS](https://user-images.githubusercontent.com/65876552/126084214-76ddc912-aab6-4b62-9c70-9b633bf82c97.PNG)
 
@@ -48,6 +48,14 @@ Click on the image below to see our Widget Tree in a better way!
 <b>SWOT Board fields view</b> 
 
 ![Swot board view - FS](https://user-images.githubusercontent.com/65876552/126084366-9e8335c6-92ab-4cfa-a1c4-f5780c917284.PNG)
+
+<b>Updated board notification message</b> 
+
+![Updated SWOT Board - FS](https://user-images.githubusercontent.com/65876552/126084546-34b5f9c1-75a8-4fbf-8864-b2b581e84c3c.PNG)
+
+<b>Updated SWOT Board</b> 
+
+![Updated Boards List - FS](https://user-images.githubusercontent.com/65876552/126084554-7871f6dd-ec7d-4ede-8c59-9fa39d9d116a.PNG)
 
 
 # Contact
