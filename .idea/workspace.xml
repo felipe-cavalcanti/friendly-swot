@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9fe2d5e-229f-4e48-adb9-8eca1c811b5c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/create_swot_board.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/create_swot_board.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/board.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/board.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/second_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/second_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/services/fakeService.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/services/fakeService.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/show_swot_board.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/show_swot_board.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/async/list_board_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/async/list_board_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vQ7KicOdXqew4nix2WnVvTcSVL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BuildTeamMobile" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9fe2d5e-229f-4e48-adb9-8eca1c811b5c" name="Default Changelist" comment="" />
+      <created>1626482397896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626482397896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="168" width="1200" height="584" key="AVDManager" timestamp="1626622532995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="168" width="1200" height="584" key="AVDManager/0.0.1536.824/-3200.0.2560.1040@0.0.1536.824" timestamp="1626622532995" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1626483986342">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/-3200.0.2560.1040@0.0.1536.824" timestamp="1626483986342" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1626482744948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-3200.0.2560.1040@0.0.1536.824" timestamp="1626482744948" />
+  </component>
+</project>

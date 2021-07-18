@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795117206179",
+    "project_id": "friendlyswot",
+    "storage_bucket": "friendlyswot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795117206179:android:ef282799ed0af996ca5d16",
+        "android_client_info": {
+          "package_name": "com.example.friendly_swot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795117206179-vffukb52r3majtcdido33o5o8n736tcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqE0dI_SL-RYsZv_fVGuXBf2l9p2Y90aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795117206179-vffukb52r3majtcdido33o5o8n736tcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

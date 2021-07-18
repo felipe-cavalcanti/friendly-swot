@@ -11,6 +11,8 @@ The Friendly SWOT app is a tool designed and developed in order to help project 
 If you wish to have this code project on your machine, please feel free to clone this repository using `https://github.com/felipe-cavalcanti/friendly-swot.git`
 To run it and emulate, use the command `flutter run` on your command line tool inside of the project's folder you just cloned.
 
+# Marketing Video
+
 # Looking at our app
 
 ## Widgets tree

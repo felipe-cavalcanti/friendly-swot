@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:friendly_swot_app/create_swot_board.dart';
 
 class SecondHome extends StatefulWidget {
   @override
@@ -22,13 +23,13 @@ class _SecondHomeState extends State<SecondHome> {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: <Widget>[
-            FloatingActionButton(
-              shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(18.0),
-                  side: BorderSide(color: Colors.blue.shade800)),
-              backgroundColor: Colors.blue.shade800,
+            ElevatedButton(
+              style: ElevatedButton.styleFrom(primary: Colors.blue.shade800),
               onPressed: () {
-                Navigator.of(context).pushNamed("createBoardPage");
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) => CreateSwotBoard(null)));
               },
               child: Text(
                 "New SWOT board".toUpperCase(),
@@ -37,11 +38,8 @@ class _SecondHomeState extends State<SecondHome> {
                 ),
               ),
             ),
-            FloatingActionButton(
-              shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(18.0),
-                  side: BorderSide(color: Colors.blue.shade800)),
-              backgroundColor: Colors.blue.shade800,
+            ElevatedButton(
+              style: ElevatedButton.styleFrom(primary: Colors.blue.shade800),
               onPressed: () {
                 Navigator.of(context).pushNamed("listBoardsPage");
               },

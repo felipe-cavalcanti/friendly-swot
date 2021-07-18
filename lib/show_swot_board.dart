@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:friendly_swot_app/widgets/async/list_board_widget.dart';
 
 class ListBoards extends StatefulWidget {
   @override
@@ -16,19 +17,9 @@ class _ListBoardsState extends State<ListBoards> {
         actions: <Widget>[],
         title: Text("My saved boards"),
       ),
-      body: buildListView(),
-    );
-  }
-
-  buildListView() {
-    final itens = List<String>.generate(1000, (i) => "Item$i");
-    return ListView.builder(
-      itemCount: itens.length,
-      itemBuilder: (context, index) {
-        return ListTile(
-          title: Text(' ${itens[index]}'),
-        );
-      },
+      body: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
+        Expanded(child: ListBoardWidget()),
+      ]),
     );
   }
 }
