@@ -17,6 +17,12 @@ To run it and emulate, use the command `flutter run` on your command line tool i
 
 # Looking at our app
 
+# Demo Video
+
+Watch our demo video on YouTube by clicking on this link below!
+
+<a href="https://youtu.be/XoCrmFWzUjA">Marketing video about Friendly SWOT app</a>
+
 ## Widgets tree
 
 Click on the image below to see our Widget Tree in a better way!
