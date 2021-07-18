@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:friendly_swot_app/widgets/login.dart';
+import 'package:friendly_swot_app/create_swot_board.dart';
+import 'package:friendly_swot_app/home_screen.dart';
+import 'package:friendly_swot_app/second_home.dart';
+import 'package:friendly_swot_app/show_swot_board.dart';
 
 void main() {
   runApp(MyApp());
@@ -14,7 +17,13 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Login(),
+      initialRoute: "home",
+      routes: {
+        "home": (context) => Home(),
+        "secondHome": (context) => SecondHome(),
+        "createBoardPage": (context) => CreateSwotBoard(),
+        "listBoardsPage": (context) => ListBoards(),
+      },
     );
   }
 }

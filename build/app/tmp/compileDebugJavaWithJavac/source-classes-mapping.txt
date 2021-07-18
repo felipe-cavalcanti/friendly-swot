@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/friendly_swot_app/BuildConfig.java
+ com.example.friendly_swot_app.BuildConfig
