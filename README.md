@@ -13,43 +13,42 @@ To run it and emulate, use the command `flutter run` on your command line tool i
 
 # Marketing Video
 
+<a href="https://youtu.be/z3LTDVQLLuE">Marketing video about Friendly SWOT app</a>
+
 # Looking at our app
 
 ## Widgets tree
 
-## Flowchart
+Click on the image below to see our Widget Tree in a better way!
 
-<img width="1182" alt="Flowchart - swot app" src="https://user-images.githubusercontent.com/65876552/114327656-5606cb80-9b10-11eb-9b9d-a92269a4115c.png">
+![friendly_swot - Widget Tree](https://user-images.githubusercontent.com/65876552/126083812-08e774e3-ba95-4d9e-a79b-18626a7cc3e5.png)
 
 ## App's screens' design project (Version 0.1)
 
-<b>Login Page</b> 
-
-<img width="363" alt="Screen Shot 2021-04-11 at 21 26 42" src="https://user-images.githubusercontent.com/65876552/114326761-a8de8400-9b0c-11eb-90e7-b608b590c8bc.png">
-
 <b>Home Page</b> 
 
-<img width="362" alt="Screen Shot 2021-04-11 at 21 30 05" src="https://user-images.githubusercontent.com/65876552/114326856-1ab6cd80-9b0d-11eb-8125-b271f55ce1b6.png">
+![Welcome - FS](https://user-images.githubusercontent.com/65876552/126084180-b8971399-953a-4550-bf1e-d1e06f2258cf.PNG)
 
-<b>New SWOT board Page</b> 
+<b>Main Page</b> 
 
-<img width="361" alt="Screen Shot 2021-04-11 at 21 33 34" src="https://user-images.githubusercontent.com/65876552/114326981-944ebb80-9b0d-11eb-9de9-02ded575470d.png">
+![Main Page - FS](https://user-images.githubusercontent.com/65876552/126084207-70e7d8e5-9298-4d55-b403-05e6508bc143.PNG)
 
-<b>My Saved boards Page</b> 
+<b>SWOT Board Creation</b> 
 
-<img width="362" alt="Screen Shot 2021-04-11 at 21 35 40" src="https://user-images.githubusercontent.com/65876552/114327072-e7c10980-9b0d-11eb-9623-12cbcdcb8102.png">
+![SWOT Board Creation - FS](https://user-images.githubusercontent.com/65876552/126084209-baf8617b-022d-4b0d-9030-b831ce2d2daa.PNG)
 
-<b>Project details Page</b> 
+<b>Sucessfully saved message</b> 
 
-<img width="362" alt="Screen Shot 2021-04-11 at 21 37 17" src="https://user-images.githubusercontent.com/65876552/114327118-18a13e80-9b0e-11eb-80a5-4762b9ae13f0.png">
+![Successfully save - FS](https://user-images.githubusercontent.com/65876552/126084214-76ddc912-aab6-4b62-9c70-9b633bf82c97.PNG)
 
-<b>My Action Item Addition Page</b> 
+<b>Saved Boards List</b> 
 
-<img width="361" alt="Screen Shot 2021-04-11 at 21 38 12" src="https://user-images.githubusercontent.com/65876552/114327145-3b335780-9b0e-11eb-9f69-0a3582b50ca4.png">
+![Saved Boards -FS](https://user-images.githubusercontent.com/65876552/126084317-bddcef4e-6f1c-4bdf-a767-ba96d44e76a3.PNG)
 
-<b>My Action Items track Page</b>
+<b>SWOT Board fields view</b> 
 
-<img width="362" alt="Screen Shot 2021-04-11 at 21 39 13" src="https://user-images.githubusercontent.com/65876552/114327180-5dc57080-9b0e-11eb-8572-78ab6631c1e1.png">
+![Swot board view - FS](https://user-images.githubusercontent.com/65876552/126084366-9e8335c6-92ab-4cfa-a1c4-f5780c917284.PNG)
+
 
 # Contact
 
@@ -57,4 +56,4 @@ If any further questions, suggestions or commendation arise, please let it be kn
 
 # Notes
 
-This is still a work in progress. 
+You'll be able to download our app on Google Play Store soon!
